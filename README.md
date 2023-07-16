@@ -17,4 +17,6 @@
 ### Задание 4
 
 Одним запросом получите активных покупателей, имена которых Kelly или Willie. 
-![alt text](https://github.com/SemikovaTV/hw_sql1/blob/main/4.1.jpg)
+![alt text](https://github.com/SemikovaTV/hw_sql1/blob/main/4.2.jpg)
+
+### Текст скрипта - [Ссылка](https://github.com/SemikovaTV/hw_sql1/blob/main/script.sql)
