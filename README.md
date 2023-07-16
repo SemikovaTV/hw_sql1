@@ -12,9 +12,9 @@
 ### Задание 3
 
 Получите последние пять аренд фильмов.
-![alt text](https://github.com/SemikovaTV/hw_sql1/blob/main/3.jpg)
+![alt text](https://github.com/SemikovaTV/hw_sql1/blob/main/3.1.jpg)
 
 ### Задание 4
 
 Одним запросом получите активных покупателей, имена которых Kelly или Willie. 
-![alt text](https://github.com/SemikovaTV/hw_sql1/blob/main/4.jpg)
+![alt text](https://github.com/SemikovaTV/hw_sql1/blob/main/4.1.jpg)
